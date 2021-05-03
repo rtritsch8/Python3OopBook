@@ -1,4 +1,4 @@
-pylint
-click
-pytest
-black
+pylint==2.8.2
+click==7.1.2
+pytest==6.2.3
+black==21.4b2
